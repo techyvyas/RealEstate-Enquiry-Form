@@ -1,0 +1,6 @@
+{
+  "name": "haven-crest-realty-enquiry",
+  "description": "Clean, modern, and responsive Real Estate Property Enquiry Form for plots, rentals, buying, and selling properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
